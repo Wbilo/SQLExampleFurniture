@@ -126,7 +126,7 @@ ORDER BY furn_weight;
 
 
 
- -- Aggregate Functions Examples:
+ --  Aggregate Functions Examples:
 
  -- COUNT(*) (Udregner mængden af rows) 
  SELECT COUNT(*) AS 'Amount of rows:' 
